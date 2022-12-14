@@ -1,1 +1,1 @@
-<img src="/animationbro/Neumorphism-Digital-Clock/blob/main/Amazing%20Neumorphism%20Digital%20Clock%20Using%20Html%20Css%20And%20Javascript.png?raw=true" alt="Amazing Neumorphism Digital Clock Using Html Css And Javascript.png">
+<img src="https://github.com/animationbro/Neumorphism-Digital-Clock/blob/main/Amazing%20Neumorphism%20Digital%20Clock%20Using%20Html%20Css%20And%20Javascript.png" alt="Amazing Neumorphism Digital Clock Using Html Css And Javascript.png">
